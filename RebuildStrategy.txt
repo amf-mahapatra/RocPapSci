@@ -1,0 +1,10 @@
+Run functions without loop
+store game scores on the page
+access current scores from the page
+send messages to the page by altering the html with JS
+listen for button clicks from sets of buttons
+loop through set s of buttons to determine which button
+use current button click to run game
+check thr score to determine game over
+write the score to the page
+
